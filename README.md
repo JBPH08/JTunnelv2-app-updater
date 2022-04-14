@@ -1,1 +1,1 @@
-# JTunnelv2-app-updater
+{"newVersion": "1.3.0","apkUrl": "https://download2264.mediafire.com/fbw58ok8j1kg/7c4nh6uv19wx59q/JTunnel+v2.apk","versionNotes":"• Optimize Add Coins• Optimize UI• Optimize Connection Status• Supported Android 5 & above"}
