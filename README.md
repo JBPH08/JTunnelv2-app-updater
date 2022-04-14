@@ -1,1 +1,1 @@
-{"newVersion": "1.3.0","apkUrl": "https://download2264.mediafire.com/fbw58ok8j1kg/7c4nh6uv19wx59q/JTunnel+v2.apk","versionNotes":"• Optimize Add Coins• Optimize UI• Optimize Connection Status• Supported Android 5 & above"}
+{"newVersion": "1.3.1","apkUrl": "https://download1337.mediafire.com/zcqgvtqcto5g/ug0pgx57cspgq89/JTunnel+v2.apk","versionNotes":"• Optimize Add Coins• Optimize UI• Optimize Connection Status• Supported Android 5 & above"}
