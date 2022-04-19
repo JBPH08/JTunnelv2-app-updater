@@ -1,1 +1,1 @@
-{"newVersion": "1.0.1","apkUrl": "https://play.google.com/store/apps/details?id=jtunnel.vpn.org","versionNotes":"• Finally you can Download the app in Playstore•Optimize Add Coins• Optimize UI• Optimize Connection Status• Supported Android 5 & above"}
+{"newVersion": "1.0.0","apkUrl": "https://play.google.com/store/apps/details?id=jtunnel.vpn.org","versionNotes":"• Finally you can Download the app in Playstore•Optimize Add Coins• Optimize UI• Optimize Connection Status• Supported Android 5 & above"}
